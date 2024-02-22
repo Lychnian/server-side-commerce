@@ -1,5 +1,7 @@
+// Import the ProductTag model from the models directory
 const { ProductTag } = require('../models');
 
+// Array of product tag data to be seeded into the database
 const productTagData = [
   {
     product_id: 1,
@@ -51,6 +53,8 @@ const productTagData = [
   },
 ];
 
+// Function to seed product tags into the database using bulkCreate method
 const seedProductTags = () => ProductTag.bulkCreate(productTagData);
 
+// Export the seedProductTags function to make it available for use in other files
 module.exports = seedProductTags;
