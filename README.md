@@ -30,6 +30,8 @@ This project was made using the MIT license. [License Link](LICENSE)
 
 This project serves as the backend infrastructure for an e-commerce platform, operating on the server-side and utilizing Express.js and Sequelize as the ORM (Object-Relational Mapping) to facilitate interactions with a MySQL database. Designed to streamline the management of products, categories, and tags, it offers a robust and organized system. With seamless integration capabilities, it empowers developers to build sophisticated front-end e-commerce applications.
 
+Respository Link: https://github.com/Lychnian/server-side-commerce
+
 
 
 ## Technologies Used
@@ -41,10 +43,12 @@ This project serves as the backend infrastructure for an e-commerce platform, op
 - JavaScript: The primary programming language used for server-side logic and client-side interactions.
 - Postman: Used for testing the API endpoints by sending requests (GET, POST, PUT, DELETE) and verifying responses.
 - Git/GitHub: Version control system and code hosting platform used for collaboration and managing project codebase.
+- Visual Studio Code: The source code editor.
 - Markdown: Used for writing the README file in a structured and formatted manner.
 - npm: The package manager for JavaScript, used to install and manage project dependencies.
 - YouTube: Used for hosting and sharing walkthrough videos demonstrating the functionality of the e-commerce backend.
-
+- Screencastify: Screen recorder Chrome extension.
+- Movavi Video Editor Plus: Video creator and editor.
 
 
 ## Installation and Usage
@@ -92,10 +96,23 @@ Requests can be made using the appropriate API routes.
 
 
 
+
 ## Tests
 
 I used CRUD tests to ensure that my API endpoints were functioning correctly and reliably for my application. CRUD (Create, Read, Update, Delete) operations are often the focus of testing in web applications, including API routes. Testing CRUD operations ensures that your application can effectively perform these basic database operations and handle various scenarios.
 
+
+
+
+## Demo
+
+The demo video provides an illustrative walkthrough showcasing the functionality and features of the Server-Side Commerce Application, highlighting its seamless integration with Express.js, Sequelize ORM, and MySQL database to manage products, categories, and tags effectively.
+
+YouTube demo video: https://youtu.be/3dwMIhGmXLk?si=hTCizX965k9oGiXh
+
+
+
+## Screenshots
 
 
 
@@ -149,19 +166,6 @@ I used CRUD tests to ensure that my API endpoints were functioning correctly and
 
 
 ![ssc17](https://github.com/Lychnian/server-side-commerce/assets/140586279/be9f4b63-6d34-41c4-9596-2fd0d40fc212)
-
-
-
-
-## Demo
-
-The demo video provides an illustrative walkthrough showcasing the functionality and features of the Server-Side Commerce Application, highlighting its seamless integration with Express.js, Sequelize ORM, and MySQL database to manage products, categories, and tags effectively.
-
-YouTube demo video: https://www.youtube.com/watch
-
-
-
-## Screenshots
 
 
 
