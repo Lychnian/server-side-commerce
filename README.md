@@ -18,6 +18,7 @@
 - [Screenshots](#screenshots)
 - [How to Contribute](#how-to-contribute)
 - [Questions](#questions)
+- [References](#references)
 
 
 
@@ -181,3 +182,13 @@ YouTube demo video: https://youtu.be/3dwMIhGmXLk?si=hTCizX965k9oGiXh
 ## Questions
 For further inquiries or assistance, feel free to reach out:
 - GitHub: [Lychnian](https://github.com/Lychnian)
+
+
+
+## References
+
+- **Deletion of Records not Occurring with Sequelize.js onDelete: 'cascade' Functionality**
+  - [Article Link](https://copyprogramming.com/howto/sequelize-js-ondelete-cascade-is-not-deleting-records-sequelize#sequelize-how-to-set-on-delete-cascade)
+  - **Models:** index.js
+  - **Lines:** 10-11, 17-18, 25-26, 33-34
+  - **Details:** Added `onDelete: CASCADE` and `onUpdate: CASCADE` options to ensure proper deletion of records in Sequelize.js.
