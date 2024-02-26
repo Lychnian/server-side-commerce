@@ -97,6 +97,62 @@ Requests can be made using the appropriate API routes.
 I used CRUD tests to ensure that my API endpoints were functioning correctly and reliably for my application. CRUD (Create, Read, Update, Delete) operations are often the focus of testing in web applications, including API routes. Testing CRUD operations ensures that your application can effectively perform these basic database operations and handle various scenarios.
 
 
+
+
+![ssc01](https://github.com/Lychnian/server-side-commerce/assets/140586279/f696e716-0508-4622-8852-e0c340e78d09)
+
+
+
+
+![ssc02](https://github.com/Lychnian/server-side-commerce/assets/140586279/414571ee-f57a-4422-9605-06e2b8334b46)
+
+
+
+
+![ssc05](https://github.com/Lychnian/server-side-commerce/assets/140586279/7fa83dab-21c7-4499-b9c6-1d33d82dd2f8)
+
+
+
+
+![ssc06](https://github.com/Lychnian/server-side-commerce/assets/140586279/6f375d4e-f781-4e1f-8931-7647c68d622d)
+
+
+
+
+![ssc08](https://github.com/Lychnian/server-side-commerce/assets/140586279/a841df89-6ecf-4fc3-91e8-4f1c1f2fa357)
+
+
+
+
+![ssc10](https://github.com/Lychnian/server-side-commerce/assets/140586279/c2f3d747-aece-43ec-afc6-971c2d07d20a)
+
+
+
+
+![ssc12](https://github.com/Lychnian/server-side-commerce/assets/140586279/a4a3930d-a10c-4bbf-bba0-237d355d2ce4)
+
+
+
+
+![ssc13](https://github.com/Lychnian/server-side-commerce/assets/140586279/e523d684-be8f-43f3-984e-f57dac1f5c5c)
+
+
+
+![ssc14](https://github.com/Lychnian/server-side-commerce/assets/140586279/07a9b4a8-72c8-421c-95d6-c12f0c298d10)
+
+
+
+
+![ssc16](https://github.com/Lychnian/server-side-commerce/assets/140586279/fbb2179d-5a3a-4100-b158-d596d83959a6)
+
+
+
+
+![ssc17](https://github.com/Lychnian/server-side-commerce/assets/140586279/be9f4b63-6d34-41c4-9596-2fd0d40fc212)
+
+
+
+
 ## Demo
 
 The demo video provides an illustrative walkthrough showcasing the functionality and features of the Server-Side Commerce Application, highlighting its seamless integration with Express.js, Sequelize ORM, and MySQL database to manage products, categories, and tags effectively.
@@ -106,6 +162,8 @@ YouTube demo video: https://www.youtube.com/watch
 
 
 ## Screenshots
+
+
 
 
 
